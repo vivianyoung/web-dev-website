@@ -1,0 +1,30 @@
+body {
+    background-color: lightblue; /* DO NOT FORGET SEMICOLONS */
+    color: #306B6D;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color: black;
+}
+
+img {
+    /* width: 300px; /* STATIC (ALWAYS 300PX) */
+    width: 30%; /* DYNAMIC (CHANGES WITH WINDOW RESIZING) */
+    height: 350px;
+}
+
+/* select IDs with # */
+/* select classes with . */
+
+#bio {
+    color: red;
+}
+
+.family-list {
+    background-color: yellow;
+}
+
+#tony {
+    font-size: 50px;
+}
