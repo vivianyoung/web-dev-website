@@ -1,0 +1,25 @@
+#calculator-wrapper {
+    background-color: green;
+    width: 50%;
+    height: 500px;
+    padding: 20px;
+}
+
+#top-window {
+    background-color: lightgray;
+    height: 30%;
+    margin-bottom: 10px;
+}
+
+#bottom-keys {
+    background-color: black;
+    height: 70%;
+}
+
+#result {
+    text-align: right;
+}
+
+.number-key {
+    background-color: white;
+}
